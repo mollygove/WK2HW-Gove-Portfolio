@@ -5,8 +5,7 @@
     box-sizing: border-box;
   }
   
-  /* Gives the body element a parent height to compare against */
-  html {
+    html {
     height: 100%;
   }
   

@@ -1,14 +1,12 @@
 # WK2HW-Gove-Portfolio
-# <Your-Project-Title>
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+I have designed the start of my coding portfolio. The purpose is to showcase what skills I have learned to employers. Portfolio's are a potential employers source to see my work and show my thoughts behind the processes.
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+We have touched on flexbox, media queries, and CSS variables. Placeholders have been used 
+
+Note: If you don't have enough web applications to showcase at this point, use placeholder images and names. You can change them to real applications as you create them later in the course.
 
 ## Table of Contents (Optional)
 
@@ -58,11 +56,3 @@ Badges aren't necessary, per se, but they demonstrate street cred. Badges let ot
 ## Features
 
 If your project has a lot of features, list them here.
-
-## How to Contribute
-
-If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
-
-## Tests
-
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
