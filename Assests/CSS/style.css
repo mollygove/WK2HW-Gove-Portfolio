@@ -36,7 +36,7 @@
   }
   
   aside {
-    flex: 0;
+    flex: 0.5;
     background-color: #b9c6ae;
     padding: 80px;
     text-align: left;

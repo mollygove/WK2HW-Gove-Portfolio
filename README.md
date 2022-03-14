@@ -4,26 +4,11 @@
 
 I have designed the start of my coding portfolio. The purpose is to showcase what skills I have learned to employers. Portfolio's are a potential employers source to see my work and show my thoughts behind the processes.
 
-We have touched on flexbox, media queries, and CSS variables. Placeholders have been used 
-
-Note: If you don't have enough web applications to showcase at this point, use placeholder images and names. You can change them to real applications as you create them later in the course.
-
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-
-## Installation
-
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+We have touched on flexbox, media queries, and CSS variables. Placeholders have been used in areas. 
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+This website will allow you to link to my work as well as provide contact details.
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
