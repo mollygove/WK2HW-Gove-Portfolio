@@ -16,6 +16,8 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ## Credits
 
+I used the following websites to assist with creating my HTML and CSS:
+
 https://www.tutorialspoint.com/html/html_image_links.htm
 
 https://www.w3schools.com/howto/howto_css_custom_scrollbar.asp
