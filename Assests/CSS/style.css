@@ -65,17 +65,18 @@
     padding: 10px;
     flex: 0 0 400px;
   }
-  
-  .card header {
-    padding: 20px;
-  }
-  
+
   .card p {
     text-align: center;
   }
   
   .card img {
     width: 100%;
+  }
+
+  #contact-info {
+    overflow-y: scroll;
+    scroll-behavior: smooth;
   }
   
   @media screen and (max-width: 768px) {
