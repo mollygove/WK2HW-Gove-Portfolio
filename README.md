@@ -11,9 +11,8 @@ We have touched on flexbox, media queries, and CSS variables.
 This website will allow you to link to my work as well as provide contact details. 
 Click Here: https://mollygove.github.io/WK2HW-Gove-Portfolio/
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    img src="./Assests/Images/Screenshot-of-Portfolio-Page.pdf" alt="Image of Landing Page"assets/images/screenshot.png"
+    <img src="./Assests/Images/Portpage.png"
+    alt="Image of Landing Page"assets/images/screenshot.pdf">
 
 ## Credits
 
@@ -22,3 +21,5 @@ I used the following websites to assist with creating my HTML and CSS:
 https://www.tutorialspoint.com/html/html_image_links.htm
 
 https://www.w3schools.com/howto/howto_css_custom_scrollbar.asp
+
+https://www.tutorialrepublic.com/codelab.php?topic=faq&file=css-increase-image-size-on-mouse-hover-without-affecting-the-other-elements

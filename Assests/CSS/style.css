@@ -18,9 +18,16 @@
     float: left;
   }
   
-   nav {
+   nav ul {
     display: flex;
     background-color: #fff;
+    list-style: none;
+  }
+
+  nav ul li {
+    margin:0;
+    margin-left: 20px; 
+    padding: 0;
   }
   
   nav a {
