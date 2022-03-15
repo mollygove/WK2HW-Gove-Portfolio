@@ -12,7 +12,7 @@ This website will allow you to link to my work as well as provide contact detail
 Click Here: https://mollygove.github.io/WK2HW-Gove-Portfolio/
 
     <img src="./Assests/Images/Portpage.png"
-    alt="Image of Landing Page"assets/images/screenshot.pdf">
+    alt="Image of Landing Page">
 
 ## Credits
 
