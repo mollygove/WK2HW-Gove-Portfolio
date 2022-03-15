@@ -8,11 +8,12 @@ We have touched on flexbox, media queries, and CSS variables.
 
 ## Usage
 
-This website will allow you to link to my work as well as provide contact details.
+This website will allow you to link to my work as well as provide contact details. 
+Click Here: https://mollygove.github.io/WK2HW-Gove-Portfolio/
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
-    img src="./Assests/Images/Screenshot-of-Portfolio-Page.png" alt="Image of Landing Page"assets/images/screenshot.png"
+    img src="./Assests/Images/Screenshot-of-Portfolio-Page.pdf" alt="Image of Landing Page"assets/images/screenshot.png"
 
 ## Credits
 
